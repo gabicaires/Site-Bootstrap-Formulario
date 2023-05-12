@@ -1,3 +1,4 @@
 # Site-Bootstrap-Formulario
 
-file:///C:/Users/ALUNO/Documents/Gabi/Atividade11%20-%20Bootstrap%20e%20Formulario/index.html
+Clique aqui para se redirecionar para o site
+https://gabicaires.github.io/Site-Bootstrap-Formulario/
